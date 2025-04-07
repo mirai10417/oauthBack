@@ -1,0 +1,8 @@
+.gitattributes	텍스트 파일의 줄 끝 스타일 등 Git 설정
+.gitignore	Git이 무시해야 할 파일 패턴 정의
+build.gradle	Gradle 빌드 설정 파일
+gradlew	Gradle Wrapper (유닉스용 실행 파일)
+gradlew.bat	Gradle Wrapper (윈도우용 실행 파일)
+settings.gradle	Gradle 프로젝트 설정
+gradle/wrapper/gradle-wrapper.jar	Gradle Wrapper 동작에 필요한 JAR
+gradle/wrapper/gradle-wrapper.properties	Gradle Wrapper의 버전 정보 등 설정
